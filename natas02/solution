@@ -1,0 +1,8 @@
+P: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+
+I tried to pull an image but it wouldn't work for some reason
+wget --user=natas02 --password=ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi http://natas2.natas.labs.overthewire.org/files/pixel.png
+I downloaded the file manually anyways but can't seem to find any stego in it
+
+flag{}
+
